@@ -1,1 +1,1 @@
-console.log('test  afbsdfbadfb');
+console.log('afbsdfbadfb');
