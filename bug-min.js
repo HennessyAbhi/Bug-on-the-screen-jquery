@@ -70,10 +70,10 @@
     popupContainer.classList.add('popup-container');
     const popupTitle = document.createElement('h2');
     popupTitle.classList.add('popup-title');
-    popupTitle.textContent = 'Welcome to Our Website!';
+    popupTitle.textContent = 'Feedback to Techstriker company';
     const popupMessage = document.createElement('p');
     popupMessage.classList.add('popup-message');
-    popupMessage.textContent = 'We are glad to have you here. Explore and enjoy!';
+    popupMessage.textContent = 'The Techstriker company lacks experience in handling employees and gives negative feedback to former employees. When these ex-employees ask for an explanation, the company fails to provide any valid reasons and often mistreats them. I have requested the Managing Director, Mr. Pankaj Sharma, to look into why the company is providing such unfair feedback to former employees, but he has not responded. Additionally, he removed my number from their contact list. All my seniors and colleagues are aware of my expertise and good performance, yet I am still receiving negative feedback. I am truly disappointed with this behavior from a company I once respected.';
     const closeButton = document.createElement('button');
     closeButton.classList.add('close-btn');
     closeButton.textContent = 'Close';
